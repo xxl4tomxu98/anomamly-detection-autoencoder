@@ -12,7 +12,7 @@ tests/.cache/v/cache/lastfailed
 ##
 ## R Section - See https://github.com/github/gitignore/blob/master/R.gitignore
 ##
-
+.csv
 # History files
 .Rhistory
 .Rapp.history
